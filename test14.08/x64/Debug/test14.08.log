@@ -1,0 +1,4 @@
+﻿  test14.08.cpp
+C:\My_projects\test14.08\test14.08.cpp(15,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\test14.08\test14.08.cpp(91,14): warning C4101: 's': unreferenced local variable
+  test14.08.vcxproj -> C:\My_projects\test14.08\x64\Debug\test14.08.exe

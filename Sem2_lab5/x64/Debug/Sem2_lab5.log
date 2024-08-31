@@ -1,0 +1,6 @@
+﻿  Sem2_lab5.cpp
+C:\My_projects\Sem2_lab5\Sem2_lab5.cpp(90,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\My_projects\Sem2_lab5\Sem2_lab5.cpp(146,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\My_projects\Sem2_lab5\Sem2_lab5.cpp(196,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\My_projects\Sem2_lab5\Sem2_lab5.cpp(257,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sem2_lab5.vcxproj -> C:\My_projects\Sem2_lab5\x64\Debug\Sem2_lab5.exe

@@ -1,0 +1,11 @@
+﻿  MedMultiSet.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab7_OOP\MedMultiSet.cpp(27,83): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab7_OOP\MedMultiSet.cpp(42,81): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  MedUnordMultiSet.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab7_OOP\MedUnordMultiSet.cpp(27,88): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab7_OOP\MedUnordMultiSet.cpp(42,86): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  MedUnordSet.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab7_OOP\MedUnordSet.cpp(27,83): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab7_OOP\MedUnordSet.cpp(42,81): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+  Lab7_OOP.vcxproj -> C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab7_OOP.exe

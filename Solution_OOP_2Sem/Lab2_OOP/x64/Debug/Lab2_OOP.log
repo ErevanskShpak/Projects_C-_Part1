@@ -1,0 +1,79 @@
+﻿  Check.cpp
+  ElementHistory.cpp
+  File.cpp
+  GraphRed.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'Transaction<File> &Transaction<File>::operator =(const Transaction<File> &)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(14,15): message : see declaration of 'Transaction<File>::operator ='
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'void Transaction<File>::beginTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(15,7): message : see declaration of 'Transaction<File>::beginTransactions'
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'void Transaction<File>::commit(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(16,7): message : see declaration of 'Transaction<File>::commit'
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'void Transaction<File>::deleteTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(17,7): message : see declaration of 'Transaction<File>::deleteTransactions'
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'std::shared_ptr<T> Transaction<T>::operator ->(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=File
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(18,16): message : see declaration of 'Transaction<File>::operator ->'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4899,16): warning C4661: 'Transaction<File> &Transaction<File>::operator =(const Transaction<File> &)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(14,15): message : see declaration of 'Transaction<File>::operator ='
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4899,16): warning C4661: 'void Transaction<File>::beginTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(15,7): message : see declaration of 'Transaction<File>::beginTransactions'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4899,16): warning C4661: 'void Transaction<File>::commit(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(16,7): message : see declaration of 'Transaction<File>::commit'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4899,16): warning C4661: 'void Transaction<File>::deleteTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(17,7): message : see declaration of 'Transaction<File>::deleteTransactions'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4899,16): warning C4661: 'std::shared_ptr<T> Transaction<T>::operator ->(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=File
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(18,16): message : see declaration of 'Transaction<File>::operator ->'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(719,82): warning C4661: 'Transaction<File> &Transaction<File>::operator =(const Transaction<File> &)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(14,15): message : see declaration of 'Transaction<File>::operator ='
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(719,82): warning C4661: 'void Transaction<File>::beginTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(15,7): message : see declaration of 'Transaction<File>::beginTransactions'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(719,82): warning C4661: 'void Transaction<File>::commit(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(16,7): message : see declaration of 'Transaction<File>::commit'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(719,82): warning C4661: 'void Transaction<File>::deleteTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(17,7): message : see declaration of 'Transaction<File>::deleteTransactions'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(719,82): warning C4661: 'std::shared_ptr<T> Transaction<T>::operator ->(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=File
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(18,16): message : see declaration of 'Transaction<File>::operator ->'
+  History.cpp
+  Lab2_OOP.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'Transaction<File> &Transaction<File>::operator =(const Transaction<File> &)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(14,15): message : see declaration of 'Transaction<File>::operator ='
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'void Transaction<File>::beginTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(15,7): message : see declaration of 'Transaction<File>::beginTransactions'
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'void Transaction<File>::commit(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(16,7): message : see declaration of 'Transaction<File>::commit'
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'void Transaction<File>::deleteTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(17,7): message : see declaration of 'Transaction<File>::deleteTransactions'
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(21,33): warning C4661: 'std::shared_ptr<T> Transaction<T>::operator ->(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=File
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(18,16): message : see declaration of 'Transaction<File>::operator ->'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(728,20): warning C4661: 'Transaction<File> &Transaction<File>::operator =(const Transaction<File> &)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(14,15): message : see declaration of 'Transaction<File>::operator ='
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(728,20): warning C4661: 'void Transaction<File>::beginTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(15,7): message : see declaration of 'Transaction<File>::beginTransactions'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(728,20): warning C4661: 'void Transaction<File>::commit(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(16,7): message : see declaration of 'Transaction<File>::commit'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(728,20): warning C4661: 'void Transaction<File>::deleteTransactions(void)': no suitable definition provided for explicit template instantiation request
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(17,7): message : see declaration of 'Transaction<File>::deleteTransactions'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(728,20): warning C4661: 'std::shared_ptr<T> Transaction<T>::operator ->(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=File
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab2_OOP\Transactions.h(18,16): message : see declaration of 'Transaction<File>::operator ->'
+  Transactions.cpp
+  Generating Code...
+  Lab2_OOP.vcxproj -> C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab2_OOP.exe

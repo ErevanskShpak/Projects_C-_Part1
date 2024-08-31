@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exam">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAAAAAAAAAAABAACIAAAAAABAAAAAAQAAQIA=</HashCode>
+      <FileName>C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Exam.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mark">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAIAAACIAAAAACAAAACAAAAAQIA=</HashCode>
+      <FileName>C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Mark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAEAEAAAAAAAEAABAAAAEAAQCAAA=</HashCode>
+      <FileName>C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAAAAAgAQAQEIAAABAAAAEAARAQAQAA=</HashCode>
+      <FileName>C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAA=</HashCode>
+      <FileName>C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAEBhAQAAAAFAAAQoRAAAIAAQgBAQAoAAAAACCEACBE=</HashCode>
+      <FileName>University.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

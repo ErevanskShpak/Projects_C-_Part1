@@ -1,0 +1,4 @@
+﻿  vecHockModule.cpp
+C:\My_projects\TRPO_kursach_20Var\vecHockModule.cpp(49,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\My_projects\TRPO_kursach_20Var\vecHockModule.cpp(69,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  TRPO_kursach.vcxproj -> C:\My_projects\TRPO_kursach_20Var\x64\Debug\TRPO_kursach.exe

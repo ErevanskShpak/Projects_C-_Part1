@@ -1,0 +1,5 @@
+﻿  GraphEditor.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab10_OOP\Star.h(19,36): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab10_OOP\GraphEditor.cpp(64,15): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab10_OOP\GraphEditor.cpp(32): warning C4715: 'GraphEditor::makeBaseShape': not all control paths return a value
+  Lab10_OOP.vcxproj -> C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab10_OOP.exe

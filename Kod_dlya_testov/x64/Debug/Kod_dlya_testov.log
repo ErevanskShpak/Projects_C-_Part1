@@ -1,0 +1,5 @@
+﻿  Kod_dlya_testov.cpp
+C:\My_projects\Kod_dlya_testov\Kod_dlya_testov.cpp(15,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\My_projects\Kod_dlya_testov\Kod_dlya_testov.cpp(24,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\My_projects\Kod_dlya_testov\Kod_dlya_testov.cpp(8,8): warning C4101: x: неиспользованная локальная переменная
+  Kod_dlya_testov.vcxproj -> C:\My_projects\Kod_dlya_testov\x64\Debug\Kod_dlya_testov.exe

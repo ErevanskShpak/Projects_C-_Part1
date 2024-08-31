@@ -1,0 +1,17 @@
+﻿  Check.cpp
+  Exam.cpp
+  Lab3_OOP.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Check.h(19,9): warning C4018: '<': signed/unsigned mismatch
+C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Lab3_OOP.cpp(20,12): message : see reference to function template instantiation 'unsigned int inputNumber<int>(T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Check.h(19,19): warning C4018: '>': signed/unsigned mismatch
+  Mark.cpp
+  Person.cpp
+  Student.cpp
+  University.cpp
+  Generating Code...
+University.obj : error LNK2005: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Teacher * &)" (??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@AEAPEAVTeacher@@@Z) already defined in Lab3_OOP.obj
+C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab3_OOP.exe : fatal error LNK1169: one or more multiply defined symbols found

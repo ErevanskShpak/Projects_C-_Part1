@@ -1,0 +1,3 @@
+﻿  task27.cpp
+C:\My_projects\LevelingToOAIP\task27\task27.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'char'
+  task27.vcxproj -> C:\My_projects\LevelingToOAIP\x64\Debug\task27.exe

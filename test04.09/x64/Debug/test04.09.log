@@ -1,0 +1,2 @@
+﻿  test04.09.cpp
+C:\My_projects\test04.09\test04.09.cpp(15,29): error C2575: 'operator <<': only member functions and bases can be virtual

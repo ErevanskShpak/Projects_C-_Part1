@@ -1,0 +1,8 @@
+﻿  test11.12.cpp
+C:\My_projects\test11.12\test11.12.cpp(253,17): warning C4101: 'k': unreferenced local variable
+C:\My_projects\test11.12\test11.12.cpp(312,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\test11.12\test11.12.cpp(317,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\test11.12\test11.12.cpp(584,40): warning C4551: function call missing argument list
+C:\My_projects\test11.12\test11.12.cpp(448,17): warning C4101: 'number': unreferenced local variable
+C:\My_projects\test11.12\test11.12.cpp(538,21): warning C4101: 'action': unreferenced local variable
+  test11.12.vcxproj -> C:\My_projects\test11.12\x64\Debug\test11.12.exe

@@ -1,0 +1,25 @@
+﻿  Student.cpp
+  Lab4_OOP.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Check.h(19,9): warning C4018: '<': signed/unsigned mismatch
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\Lab4_OOP.cpp(21,12): message : see reference to function template instantiation 'unsigned int inputNumber<int>(T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\My_projects\Solution_OOP_2Sem\Lab3_OOP\Check.h(19,19): warning C4018: '>': signed/unsigned mismatch
+  University.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(12,21): warning C4018: '<=': signed/unsigned mismatch
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(92,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(119,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(129,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(184,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(191,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(200,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(209,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(218,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(227,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(236,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(39,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\My_projects\Solution_OOP_2Sem\Lab4_OOP\University.cpp(104,2): message : see reference to function template instantiation 'void University::readDataFromFile<Exam>(std::string,std::vector<Exam *,std::allocator<Exam *>> &)' being compiled
+  Generating Code...
+  Lab4_OOP.vcxproj -> C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab4_OOP.exe

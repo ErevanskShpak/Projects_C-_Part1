@@ -1,0 +1,9 @@
+﻿  Check.cpp
+  Lab1_OOP.cpp
+  People.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab1_OOP\People.cpp(68,44): warning C4018: '<=': signed/unsigned mismatch
+  Person.cpp
+  Student.cpp
+  Worker.cpp
+  Generating Code...
+  Lab1_OOP.vcxproj -> C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab1_OOP.exe

@@ -1,0 +1,4 @@
+﻿  Input.cpp
+C:\My_projects\Solution_OOP_2Sem\Lab6_OOP\Input.cpp(21,77): warning C4309: 'default argument': truncation of constant value
+C:\My_projects\Solution_OOP_2Sem\Lab6_OOP\Input.cpp(94): warning C4715: 'Input::inputType': not all control paths return a value
+  Lab6_OOP.vcxproj -> C:\My_projects\Solution_OOP_2Sem\x64\Debug\Lab6_OOP.exe
